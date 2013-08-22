@@ -20,3 +20,42 @@
 }
 
 
+
+
+
+
+
+/*JUST FOR TESTING STUFF*/
+
+article.aim section.aim-main h1,
+article.protocol section.protocol-main h1,
+article.software section.software-main h1,
+article.people section.people-main h1 {
+    font-size: 150%;
+    line-height: 1.2;
+}
+
+article.aim section.aim-main h2,
+article.protocol section.protocol-main h2,
+article.software section.software-main h2,
+article.people section.people-main h2 {
+  font-weight: normal;
+  padding: 0;
+  font-size: 130%;
+  line-height: 1.2;
+}
+
+article.aim section.aim-main,
+article.protocol section.protocol-main,
+article.software section.software-main/*,
+article.people section.people-main*/ {
+    padding: 20px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+    background: #eeeeee;
+}
+
+article + article {
+  padding: 20px 0 0 0;
+}
