@@ -19,11 +19,22 @@
   font-weight: 200;
 }
 
+/*change borders to orange (#FF6200)*/
+hr {
+  border-top: 1px solid #FF6200;
+}
+.stats hr {
+  width: 200px;
+}
 
+.tabs-left>.nav-tabs{float:left;margin-right:19px;border-right:1px solid #FF6200;}
+.tabs-left>.nav-tabs>li>a:hover,.tabs-left>.nav-tabs>li>a:focus{border-color:#eeeeee #FF6200 #eeeeee #eeeeee;}
+.tabs-left>.nav-tabs .active>a,.tabs-left>.nav-tabs .active>a:hover,.tabs-left>.nav-tabs .active>a:focus{border-color:#FF6200 transparent #FF6200 #FF6200;*border-right-color:#ffffff;}
 
-
-
-
+/*change hover links to #104BA9*/
+a:hover {
+  color: #104BA9;
+}
 
 /*JUST FOR TESTING STUFF*/
 
