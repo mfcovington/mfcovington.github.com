@@ -1,6 +1,4 @@
-{% for post in site.posts %}
-  {% capture cat %}{{ post.categories | first }}{% endcapture %}
-  {% if cat == "publications"  %}
+{% for post in site.categories.publications %}
     {% for pub in post.articles %}
       <p>
         {{ pub.authors }}. <a href="{{ pub.pubmed }}" target="_blank">{{ pub.title }}</a>. <em>{{ pub.journal }}</em> ({{ pub.year }}).
@@ -17,5 +15,4 @@
         {% endunless %}
       </p>
     {% endfor %}
-  {% endif %}
 {% endfor %}
