@@ -26,7 +26,6 @@ articles:
   pdf:     PNAS-2013-Koenig-1309606110.pdf
   si:      PNAS-2013-Koenig-1309606110.wSI.pdf
 
-
 - title:   "Circadian control of jasmonates and salicylates: The clock role in plant defense"
   journal: Plant Signal Behav.
   year:    2013
@@ -53,8 +52,8 @@ articles:
   year:    2010
   authors: Jones MA, Covington MF, DiTacchio L, Vollmers C, Panda S, Harmer SL
   pubmed:  http://www.ncbi.nlm.nih.gov/pubmed/21115819
-  pdf:     
-  si:      
+  pdf:     PNAS-2010-Jones-21623-8.pdf
+  si:      PNAS-2010-Jones-21623-8.wSI.pdf
   other:
   - name: 
     link: 
@@ -64,7 +63,7 @@ articles:
   year:    2008
   authors: Gong W, He K, Covington MF, Dinesh-Kumar SP, Snyder M, Harmer SL, Zhu YX, Deng XW.
   pubmed:  http://www.ncbi.nlm.nih.gov/pubmed/19802365
-  pdf:     
+  pdf:     MolPlant-2007-Gong-mp-ssm009.pdf
   si:      
   other:
   - name: 
@@ -98,7 +97,7 @@ articles:
   authors: Covington MF, Harmer SL
   pubmed:  http://www.ncbi.nlm.nih.gov/pubmed/17683202
   pdf:     journal.pbio.0050222.pdf
-  si:      sample
+  si:      
   other:
   - name: Synopsis by M. Hoff
     link: journal.pbio.0050227.pdf
@@ -108,11 +107,11 @@ articles:
   year:    2007
   authors: Nozue K, Covington MF, Duek PD, Lorrain S, Fankhauser C, Harmer SL, Maloof JN
   pubmed:  http://www.ncbi.nlm.nih.gov/pubmed/17589502
-  pdf:     
+  pdf:     nature05946.pdf
   si:      
   other:
-  - name: 
-    link: 
+  - name: News & Views by G. Breton and S. Kay
+    link: 448265a.pdf
 
 
 - title:   ELF3 modulates resetting of the circadian clock in Arabidopsis
@@ -120,7 +119,7 @@ articles:
   year:    2001
   authors: Covington MF, Panda S, Liu XL, Strayer CA, Wagner DR, Kay SA
   pubmed:  http://www.ncbi.nlm.nih.gov/pubmed/11402162
-  pdf:     
+  pdf:     Plant Cell-2001-Covington-1305-16.pdf
   si:      
   other:
   - name: 
@@ -131,7 +130,7 @@ articles:
   year:    2001
   authors: Liu XL, Covington MF, Fankhauser C, Chory J, Wagner DR
   pubmed:  http://www.ncbi.nlm.nih.gov/pubmed/11402161
-  pdf:     
+  pdf:     Plant Cell-2001-Liu-1293-304.pdf
   si:      
   other:
   - name: 
