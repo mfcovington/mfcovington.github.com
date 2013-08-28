@@ -22,7 +22,7 @@ articles:
   journal: Proc Natl Acad Sci USA
   year:    2013
   authors: Koenig D, Jim&eacute;nez-G&oacute;mez JM, Kimura S, Fulop D, Chitwood DH, Headland LR, Kumar R, <strong>Covington MF</strong>, Devisetty UK, Tat AV, Tohge T, Bolger A, Schneeberger K, Ossowski S, Lanz C, Xiong G, Taylor-Teeples M, Brady SM, Pauly M, Weigel D, Usadel B, Fernie AR, Peng J, Sinha NR, Maloof JN
-  pubmed:  http://www.pnas.org/content/110/28/E2655.full
+  pubmed:  http://www.ncbi.nlm.nih.gov/pubmed/23803858
   pdf:     PNAS-2013-Koenig-1309606110.pdf
   si:      PNAS-2013-Koenig-1309606110.wSI.pdf
 
@@ -31,7 +31,7 @@ articles:
   journal: Plant Signal Behav.
   year:    2013
   authors: Goodspeed D, Chehab EW, <strong>Covington MF</strong>, Braam J
-  pubmed:  https://www.landesbioscience.com/journals/psb/article/23123/
+  pubmed:  http://www.ncbi.nlm.nih.gov/pubmed/23299428
   pdf:     2012PSB0455.pdf
   si:
 
@@ -39,7 +39,7 @@ articles:
   journal: Proc Natl Acad Sci USA
   year:    2012
   authors: Goodspeed D, Chehab EW, Min-venditti A, Braam J, <strong>Covington MF</strong>
-  pubmed:  http://www.pnas.org/content/109/12/4674
+  pubmed:  http://www.ncbi.nlm.nih.gov/pubmed/22331878
   pdf:     PNAS-2012-Goodspeed-4674-7.pdf
   si:      PNAS-2012-Goodspeed-4674-7.wSI.pdf
   other:
@@ -72,9 +72,9 @@ articles:
 
 - year:    2008
   authors: <strong>Covington MF</strong>, Maloof JN, Straume M, Kay SA, Harmer SL
-  pubmed:  http://www.ncbi.nlm.nih.gov/pubmed/18710561
   title:   Global transcriptome analysis reveals circadian regulation of key pathways in plant growth and development
   journal: Genome Biol.
+  pubmed:  http://www.ncbi.nlm.nih.gov/pubmed/18710561
   pdf:     gb-2008-9-8-r130.pdf
   si:      
   other:
@@ -126,7 +126,7 @@ articles:
   - name: 
     link: 
 
-- title:   ELF3 encodes a circadian clock-regulated nuclear protein that functions in an Arabidopsis PHYB signal transduction pathway.
+- title:   ELF3 encodes a circadian clock-regulated nuclear protein that functions in an Arabidopsis PHYB signal transduction pathway
   journal: Plant Cell
   year:    2001
   authors: Liu XL, <strong>Covington MF</strong>, Fankhauser C, Chory J, Wagner DR
