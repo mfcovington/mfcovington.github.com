@@ -2,4 +2,3 @@ name: Mike's GH-Pages
 baseurl: /
 permalink: pretty
 markdown: redcarpet
-auto: true
