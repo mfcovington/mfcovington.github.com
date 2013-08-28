@@ -40,27 +40,7 @@ layout: minimal
 
             </div>
             <div class="tab-pane fade in" id="tab4">
-              {% for post in site.posts %}
-                {% capture cat %}{{ post.categories | first }}{% endcapture %}
-                {% if cat == "publications"  %}
-                  {% for pub in post.articles %}
-                    <p>
-                      {{ pub.authors }}. <a href="{{ pub.pubmed }}" target="_blank">{{ pub.title }}</a>. <em>{{ pub.journal }}</em> ({{ pub.year }}).
-                      {% unless pub.pdf == null %}
-                        <a href="{{ site.url }}/{{ pub.pdf }}" class="label" target="_blank">PDF</a>
-                      {% endunless %}
-                      {% unless pub.si == null %}
-                        <a href="{{ site.url }}/{{ pub.si }}" class="label" target="_blank">PDF + SI</a>
-                      {% endunless %}
-                      {% unless pub.other == null %}
-                        {% for extra in pub.other %}
-                            <a href="{% unless extra.link contains 'http://' %}{{ site.url }}/{% endunless %}{{ extra.link }}" class="label label-warning" target="_blank">{{ extra.name }}</a>
-                        {% endfor %}
-                      {% endunless %}
-                    </p>
-                  {% endfor %}
-                {% endif %}
-              {% endfor %}
+              {% include pubs-snippet.html %}
             </div>
 
             <div class="tab-pane fade in" id="tab5">
