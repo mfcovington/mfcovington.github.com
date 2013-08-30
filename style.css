@@ -70,3 +70,15 @@ article.people section.people-main*/ {
 article + article {
   padding: 20px 0 0 0;
 }
+
+ul.thumbnails > .row-fluid + .row-fluid/*, .row-fluid > li + li*/ {
+  margin-top: 10px;
+}
+
+ul.thumbnails .thumbnail {
+  padding: 10px;
+}
+
+img {
+  border: 1px solid gray;
+}

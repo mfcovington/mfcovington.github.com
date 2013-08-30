@@ -1,5 +1,6 @@
 name: Mike's GH-Pages
 baseurl: /
 pdfurl: /resources/pdf/
+imgurl: /resources/img/
 permalink: pretty
 markdown: redcarpet
