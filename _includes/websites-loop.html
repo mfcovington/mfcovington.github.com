@@ -1,0 +1,9 @@
+<ul class="thumbnails">
+  {% for website in site.categories.websites %}
+    {% for mysite in website.sites %}
+
+      {% include websites.html %}
+
+    {% endfor %}
+  {% endfor %}
+</ul>
