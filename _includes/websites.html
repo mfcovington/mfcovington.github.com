@@ -10,7 +10,13 @@
       <section class="span6">
         <h5>{{ mysite.title }}</h5>
         <p>{{ mysite.blurb }}</p>
-        <p class="center"><a href="{{ mysite.liveurl }}" class="btn btn-success" target="_blank">Live Site</a> <a href="{{ mysite.codeurl }}" class="btn btn-info" target="_blank">Code on GitHub</a></p>
+        <p>
+          {% unless mysite.liveurl == null %}
+            <a href="{{ mysite.liveurl }}" class="btn btn-success" target="_blank">Live Site</a>
+          {% endunless %}
+          {% unless mysite.codeurl == null %}
+            <a href="{{ mysite.codeurl }}" class="btn btn-info" target="_blank">Code on GitHub</a></p>
+          {% endunless %}
       </section>
     </div>
   </div>
