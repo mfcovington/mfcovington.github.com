@@ -82,3 +82,7 @@ ul.thumbnails .thumbnail {
 img {
   border: 1px solid gray;
 }
+
+img.publication {
+  border: 0;
+}
