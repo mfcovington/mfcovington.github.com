@@ -15,7 +15,7 @@
               <p>
                 {{ pub.authors | replace:'Covington MF','<strong>Covington MF</strong>' }}
               </p>
-              <p>
+              <p class="publinks">
                 {% unless pub.pubmed == null %}
                   <a href="{{ pub.pubmed }}" class="btn btn-info" target="_blank">PubMed</a>
                 {% endunless %}

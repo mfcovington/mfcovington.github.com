@@ -86,3 +86,7 @@ img {
 img.publication {
   border: 0;
 }
+
+.publinks {
+  line-height: 2.4
+}
