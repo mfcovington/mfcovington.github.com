@@ -25,7 +25,9 @@ body {
 
 /*change borders to orange (#FF6200)*/
 hr {
+  border: 0;
   border-top: 1px solid #FF6200;
+  margin: 15px 0 15px 0;
 }
 .stats hr {
   width: 200px;
