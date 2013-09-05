@@ -96,3 +96,12 @@ img.publication {
 .publinks {
   line-height: 2.4
 }
+
+.githublinks {
+  line-height: 2.6
+}
+
+.sw-hero {
+  /*background-color: #FFF7F2;*/
+  border: 1px solid gray;
+}
