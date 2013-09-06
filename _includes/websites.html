@@ -9,6 +9,11 @@
       </section>
       <section class="span6 site-info">
         <h1>{{ mysite.title }}</h1>
+        <p>
+          {% for tech in mysite.techs %}
+            <a href="{{ tech.link }}" class="label label-tech" target="_blank">{{ tech.name }}</a>
+          {% endfor %}
+        </p>
         <p>{{ mysite.blurb }}</p>
         <p>
           {% unless mysite.liveurl == null %}

@@ -112,3 +112,7 @@ img.publication {
   /*background-color: #FFF7F2;*/
   border: 1px solid gray;
 }
+
+.label-tech:hover {
+background-color:#FF6200;
+}
