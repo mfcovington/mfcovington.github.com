@@ -23,6 +23,13 @@ body {
   font-weight: 200;
 }
 
+.site-info h1 {
+  font-size: 175%;
+  line-height: 1.2;
+  margin: 0 0 4px 0;
+  font-weight: 400;
+}
+
 /*change borders to orange (#FF6200)*/
 hr {
   border: 0;
