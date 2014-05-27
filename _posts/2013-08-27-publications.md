@@ -7,6 +7,23 @@ author: Mike Covington
 
 articles:
 
+- title:   A modern ampelography: a genetic basis for leaf shape and venation patterning in grape
+  journal: Plant Physiology
+  year:    2014
+  authors: Chitwood DH, Ranjan A, Martinez CC, Headland LR, Thiem T, Kumar R, Covington MF, Hatcher T, Naylor DT, Zimmerman S, Downs N, Raymundo N, Buckler ES, Maloof JN, Aradhya M, Prins B, Li L, Myles S, Sinha NR
+  image:   2014-chitwood-fig1.jpg
+  pubmed:  http://www.ncbi.nlm.nih.gov/pubmed/24285849
+  pdf:     Plant Physiol.-2014-Chitwood-259-72
+  si:      
+  comment:
+  - name: 
+    link: 
+  award:
+  - name: 
+    link: 
+  abstract: |
+    Terroir, the unique interaction between genotype, environment, and culture, is highly refined in domesticated grape (*Vitis vinifera*). Toward cultivating terroir, the science of ampelography tried to distinguish thousands of grape cultivars without the aid of genetics. This led to sophisticated phenotypic analyses of natural variation in grape leaves, which within a palmate-lobed framework exhibit diverse patterns of blade outgrowth, hirsuteness, and venation patterning. Here, we provide a morphometric analysis of more than 1,200 grape accessions. Elliptical Fourier descriptors provide a global analysis of leaf outlines and lobe positioning, while a Procrustes analysis quantitatively describes venation patterning. Correlation with previous ampelography suggests an important genetic component, which we confirm with estimates of heritability. We further use RNA-Seq of mutant varieties and perform a genome-wide association study to explore the genetic basis of leaf shape. Meta-analysis reveals a relationship between leaf morphology and hirsuteness, traits known to correlate with climate in the fossil record and extant species. Together, our data demonstrate a genetic basis for the intricate diversity present in grape leaves. We discuss the possibility of using grape leaves as a breeding target to preserve terroir in the face of anticipated climate change, a major problem facing viticulture.
+
 - title:   A Quantitative Genetic Basis for Leaf Morphology in a Set of Precisely Defined Tomato Introgression Lines
   journal: Plant Cell
   year:    2013
