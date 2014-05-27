@@ -7,7 +7,7 @@ author: Mike Covington
 
 articles:
 
-- title:   A modern ampelography: a genetic basis for leaf shape and venation patterning in grape
+- title:   "A modern ampelography: a genetic basis for leaf shape and venation patterning in grape"
   journal: Plant Physiology
   year:    2014
   authors: Chitwood DH, Ranjan A, Martinez CC, Headland LR, Thiem T, Kumar R, Covington MF, Hatcher T, Naylor DT, Zimmerman S, Downs N, Raymundo N, Buckler ES, Maloof JN, Aradhya M, Prins B, Li L, Myles S, Sinha NR
