@@ -13,7 +13,7 @@ articles:
   authors: Chitwood DH, Ranjan A, Martinez CC, Headland LR, Thiem T, Kumar R, Covington MF, Hatcher T, Naylor DT, Zimmerman S, Downs N, Raymundo N, Buckler ES, Maloof JN, Aradhya M, Prins B, Li L, Myles S, Sinha NR
   image:   2014-chitwood-fig1.jpg
   pubmed:  http://www.ncbi.nlm.nih.gov/pubmed/24285849
-  pdf:     Plant Physiol.-2014-Chitwood-259-72
+  pdf:     Plant Physiol.-2014-Chitwood-259-72.pdf
   si:      
   comment:
   - name: 
