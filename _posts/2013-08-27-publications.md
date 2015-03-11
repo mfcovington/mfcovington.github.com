@@ -7,6 +7,23 @@ author: Mike Covington
 
 articles:
 
+- title:   Polymorphism Identification and Improved Genome Annotation of Brassica rapa Through Deep RNA Sequencing
+  journal: "G3•Genes|Genomes|Genetics"
+  year:    2014
+  authors: Devisetty UK, Covington MF, Tat AV, Lekkala S, Maloof JN
+  image:   2014-devisetty-fig1.jpg    # thumbnail width set to 1000px instead of 500px
+  pubmed:  http://www.ncbi.nlm.nih.gov/pubmed/25122667
+  pdf:     2065.full.pdf
+  si:      
+  comment:
+  - name: 
+    link: 
+  award:
+  - name: 
+    link: 
+  abstract: |
+    The mapping and functional analysis of quantitative traits in *Brassica rapa* can be greatly improved with the availability of physically positioned, gene-based genetic markers and accurate genome annotation. In this study, deep transcriptome RNA sequencing (RNA-Seq) of *Brassica rapa* was undertaken with two objectives: SNP detection and improved transcriptome annotation. We performed SNP detection on two varieties that are parents of a mapping population to aid in development of a marker system for this population and subsequent development of high-resolution genetic map. An improved *Brassica rapa* transcriptome was constructed to detect novel transcripts and to improve the current genome annotation. This is useful for accurate mRNA abundance and detection of expression QTL (eQTLs) in mapping populations. Deep RNA-Seq of two *Brassica rapa* genotypes-R500 (var. trilocularis, Yellow Sarson) and IMB211 (a rapid cycling variety)-using eight different tissues (root, internode, leaf, petiole, apical meristem, floral meristem, silique, and seedling) grown across three different environments (growth chamber, greenhouse and field) and under two different treatments (simulated sun and simulated shade) generated 2.3 billion high-quality Illumina reads. A total of 330,995 SNPs were identified in transcribed regions between the two genotypes with an average frequency of one SNP in every 200 bases. The deep RNA-Seq reassembled *Brassica rapa* transcriptome identified 44,239 protein-coding genes. Compared with current gene models of *B. rapa*, we detected 3537 novel transcripts, 23,754 gene models had structural modifications, and 3655 annotated proteins changed. Gaps in the current genome assembly of *B. rapa* are highlighted by our identification of 780 unmapped transcripts. All the SNPs, annotations, and predicted transcripts can be viewed at <http://phytonetworks.ucdavis.edu/>.
+
 - title:   "A modern ampelography: a genetic basis for leaf shape and venation patterning in grape"
   journal: Plant Physiology
   year:    2014
