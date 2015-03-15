@@ -104,8 +104,25 @@ img.publication {
   line-height: 2.4
 }
 
-.githublinks {
-  line-height: 2.6
+.hero-unit p:last-child {
+  margin-bottom: 0;
+}
+
+.githublinks img, .githublinks a {
+  width: 100%;
+  display: block;
+}
+
+.githublinks img + a{
+  margin: 10px auto 0;
+}
+
+.githublinks a + a {
+  margin: 5px auto 0;
+}
+
+.hero-unit > .pull-left {
+  margin: 0 20px 0 0;
 }
 
 .sw-hero {
