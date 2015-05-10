@@ -7,6 +7,23 @@ author: Mike Covington
 
 articles:
 
+- title:   "BrAD-seq: Breath Adapter Directional sequencing: a streamlined, ultra-simple and fast library preparation protocol for strand specific mRNA library construction"
+  journal: Frontiers in Plant Science
+  year:    2015
+  authors: Townsley BT, Covington MF, Ichihashi Y, Zumstein Y, and Sinha NR
+  image:   2015-townsley-fig4b.png
+  pubmed:  
+  pdf:     141698_Sinha_ProvisionalPDF.pdf
+  si:      
+  comment:
+  - name: 
+    link: 
+  award:
+  - name: 
+    link: 
+  abstract: |
+    Next Generation Sequencing (NGS) is driving rapid advancement in biological understanding and RNA-sequencing (RNA-seq) has become an indispensable tool for biology and medicine. There is a growing need for access to these technologies although preparation of NGS libraries remains a bottleneck to wider adoption. Here we report a novel method for the production of strand specific RNA-seq libraries utilizing inherent properties of double-stranded cDNA to capture and incorporate a sequencing adapter. Breath Adapter Directional sequencing (BrAD-seq) reduces sample handling and requires far fewer enzymatic steps than most available methods to produce high quality strand-specific RNA-seq libraries. The method we present is optimized for 3-prime Digital Gene Expression (DGE) libraries and can easily extend to full transcript coverage shotgun (SHO) type strand-specific libraries and is modularized to accommodate a diversity of RNA and DNA input materials. BrAD-seq offers a highly streamlined and inexpensive option for RNA-seq libraries.
+
 - title:   Polymorphism Identification and Improved Genome Annotation of Brassica rapa Through Deep RNA Sequencing
   journal: "G3•Genes|Genomes|Genetics"
   year:    2014
