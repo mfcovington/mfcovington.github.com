@@ -12,7 +12,7 @@ articles:
   year:    2015
   authors: Townsley BT, Covington MF, Ichihashi Y, Zumstein Y, and Sinha NR
   image:   2015-townsley-fig4b.png
-  pubmed:  
+  pubmed:  http://www.ncbi.nlm.nih.gov/pubmed/26052336
   pdf:     fpls-06-00366.pdf
   si:      
   comment:
