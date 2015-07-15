@@ -7,6 +7,23 @@ author: Mike Covington
 
 articles:
 
+- title:   Modeling development and quantitative trait mapping reveal independent genetic modules for leaf size and shape.
+  journal: New Phytologist
+  year:    2015
+  authors: Baker RL, Leong WF, Brock MT, Markelz RJ, Covington MF, Devisetty UK, Edwards CE, Maloof J, Welch S, Weinig C
+  image:   2015-baker-fig2.png
+  pubmed:  http://www.ncbi.nlm.nih.gov/pubmed/26083847
+  pdf:     baker_et_al-2015-new_phytologist-2.pdf
+  si:      
+  comment:
+  - name: 
+    link: 
+  award:
+  - name: 
+    link: 
+  abstract: |
+    Improved predictions of fitness and yield may be obtained by characterizing the genetic controls and environmental dependencies of organismal ontogeny. Elucidating the shape of growth curves may reveal novel genetic controls that single-time-point (STP) analyses do not because, in theory, infinite numbers of growth curves can result in the same final measurement. We measured leaf lengths and widths in *Brassica rapa* recombinant inbred lines (RILs) throughout ontogeny. We modeled leaf growth and allometry as function valued traits (FVT), and examined genetic correlations between these traits and aspects of phenology, physiology, circadian rhythms and fitness. We used RNA-seq to construct a SNP linkage map and mapped trait quantitative trait loci (QTL). We found genetic trade-offs between leaf size and growth rate FVT and uncovered differences in genotypic and QTL correlations involving FVT vs STPs. We identified leaf shape (allometry) as a genetic module independent of length and width and identified selection on FVT parameters of development. Leaf shape is associated with venation features that affect desiccation resistance. The genetic independence of leaf shape from other leaf traits may therefore enable crop optimization in leaf shape without negative effects on traits such as size, growth rate, duration or gas exchange.
+
 - title:   "BrAD-seq: Breath Adapter Directional sequencing: a streamlined, ultra-simple and fast library preparation protocol for strand specific mRNA library construction"
   journal: Frontiers in Plant Science
   year:    2015
