@@ -128,6 +128,7 @@ img.publication {
 .sw-hero {
   /*background-color: #FFF7F2;*/
   border: 1px solid gray;
+  min-height: 315px;
 }
 
 .label-tech:hover {
